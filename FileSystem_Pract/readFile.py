@@ -3,3 +3,5 @@ with open('textFiles\py_digits2.txt') as file_object:        #Accessing file fro
     content = file_object.read();
     # content = file_object.close();
     print (content);
+    print ("File Abosolute path");
+    print ("D:\PROJECTS\Python_Pract\FileSystem_Pract\readFile.py");
