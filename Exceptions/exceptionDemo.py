@@ -12,7 +12,7 @@ except ZeroDivisionError:
     print("You cannot divide by zero");
 except FileNotFoundError:
     print ("File not found");
-else:
+else:                 #Handling else block
     print ("Code executed successfully");
 finally:
     print ("Execute code anyway");
