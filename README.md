@@ -1,3 +1,3 @@
 # Python-Pract
 
-Currently working with Python 3.5
+Currently working with Python 3.6
